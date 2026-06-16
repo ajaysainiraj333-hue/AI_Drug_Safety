@@ -1,1 +1,4 @@
 libxrender1
+libxext6
+libxss1
+libxft2
