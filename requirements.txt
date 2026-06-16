@@ -1,4 +1,4 @@
 streamlit
-matplotlib
 rdkit
 Pillow
+matplotlib
